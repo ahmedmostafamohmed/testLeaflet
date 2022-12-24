@@ -1,0 +1,8 @@
+.map{
+    height: 100vh;
+}
+.leaflet-tooltip.my-labels {
+    background-color: transparent;
+    border: transparent;
+    box-shadow: none;
+    }
